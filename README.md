@@ -16,6 +16,7 @@ Fuck Bomber is used to send huge amount of sms to any number.
 Make sure you have python installed
 
 ```bash
+  git clone https://github.com/mrmadbhai/FuckBomber
   pip install requests
   cd FuckBomber
 ```
